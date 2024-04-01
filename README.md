@@ -1,4 +1,5 @@
 <h1>Hi, I'm Omotara! <a href="https://www.linkedin.com/in/omotarakokori/">Cybersecurity Professional</a>
+<img src="https://img.shields.io/badge/-CompTIA_A+-0078D4?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
