@@ -25,7 +25,7 @@
 
 [Brief Introduction - Remove this afterwards]
 
-I am a recent graduate with a profound interest in technology and a dedication to solving complex problems.
+Passionate cybersecurity enthusiast showcasing hands-on experience in threat analysis, vulnerability assessment, and incident response. Proficient in utilizing industry-standard tools and techniques to safeguard digital assets and mitigate security risks."
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
