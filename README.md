@@ -70,6 +70,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
+<a href="https://www.credly.com/badges/94ae84a1-28c6-424b-a248-47244cc66ed2/linked_in_profile"><img src="https://img.shields.io/badge/-GCIH-000000?&style=for-the-badge&logo=GIAC&logoColor=white"/></a>
+
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
