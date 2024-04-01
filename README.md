@@ -30,7 +30,7 @@ Passionate cybersecurity enthusiast showcasing hands-on experience in threat ana
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology has led me to develop a passion for cybersecurity, demonstrating practical applications of cybersecurity principles and domains (including threat detection, incident response, and risk mitigation). Ultimately advancing my career trajectory towards fulfilling roles such as a Security Incident Responder, Malware analyst Incident Responder.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
