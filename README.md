@@ -1,5 +1,5 @@
 <h1>Hi, I'm Omotara! <a href="https://www.linkedin.com/in/omotarakokori/">Cybersecurity Professional</a>
-<a href="https://www.credly.com/badges/f365deb8-e80e-4be2-a1d4-1e05454d4f7a/linked_in_profile"><img src="https://img.shields.io/badge/-GSEC-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/fa004c89-c870-4283-9b87-eed0d4fdfe3c/linked_in_profile)"><img src="https://img.shields.io/badge/-GCIH-000000?&style=for-the-badge&logo=GFACT&logoColor=white" /></a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
@@ -72,6 +72,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <div>
 <a href="https://www.credly.com/badges/94ae84a1-28c6-424b-a248-47244cc66ed2/linked_in_profile"><img src="https://img.shields.io/badge/-GCIH-000000?&style=for-the-badge&logo=GIAC&logoColor=white"/></a>
 <a href="https://www.credly.com/badges/f365deb8-e80e-4be2-a1d4-1e05454d4f7a/linked_in_profile"><img src="https://img.shields.io/badge/-GSEC-0078D4?&style=for-the-badge&logo=GIAC&logoColor=white" /></a>
+<a href="https://www.credly.com/badges/fa004c89-c870-4283-9b87-eed0d4fdfe3c/linked_in_profile)"><img src="https://img.shields.io/badge/-GCIH-000000?&style=for-the-badge&logo=GFACT&logoColor=white" /></a>
+
 
 <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
 <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
