@@ -25,12 +25,12 @@
 
 [Brief Introduction - Remove this afterwards]
 
-Passionate cybersecurity enthusiast showcasing hands-on experience in threat analysis, vulnerability assessment, and incident response. Proficient in utilizing industry-standard tools and techniques to safeguard digital assets and mitigate security risks."
+Passionate cybersecurity enthusiast showcasing hands-on experience in threat analysis, vulnerability assessment, and incident response. Proficient in utilizing industry-standard tools and techniques to safeguard digital assets and mitigate security risks.
 
 ## Objective
 [Provide Objective - Remove this afterwards]]
 
-My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
