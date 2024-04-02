@@ -28,6 +28,11 @@ Passionate cybersecurity enthusiast showcasing hands-on experience in threat ana
 
 My journey in Information Technology has led me to develop a passion for cybersecurity, demonstrating practical applications of cybersecurity principles and domains (including threat detection, incident response, and risk mitigation). Ultimately advancing my career trajectory towards fulfilling roles such as a Security Incident Responder, Malware analyst Incident Responder.
 
+## 👨‍💻 Cybersecurity Projects:
+
+- <b>A Day in the Life of a Cybersecurity Generalist</b>
+  - [Data Analysis Using Splunk](https://github.com/Omotara100/LABURL)
+
 ## Skills
 <!---  [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
 
