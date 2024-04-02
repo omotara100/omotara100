@@ -1,3 +1,5 @@
+
+<!---
 <h1>Hi, I'm Omotara! <a href="https://www.linkedin.com/in/omotarakokori/">Cybersecurity Professional</a>
 <a href="https://www.credly.com/badges/fa004c89-c870-4283-9b87-eed0d4fdfe3c/linked_in_profile)"><img src="https://img.shields.io/badge/-GCIH-000000?&style=for-the-badge&logo=GFACT&logoColor=white" /></a>
 
@@ -12,7 +14,9 @@
 - [GIAC Security Essentials Certification (GSEC)](https://www.credly.com/badges/f365deb8-e80e-4be2-a1d4-1e05454d4f7a/linked_in_profile)
 - [GIAC Foundational Cybersecurity Technologies (GFACT)](https://www.credly.com/badges/fa004c89-c870-4283-9b87-eed0d4fdfe3c/linked_in_profile)
 
-
+your comment goes here
+and here
+-->
 
 # Hello, I'm Omotara! Cybersecurity Professional
 <a href="https://www.linkedin.com/in/omotarakokori/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
