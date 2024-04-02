@@ -29,19 +29,22 @@ Passionate cybersecurity enthusiast showcasing hands-on experience in threat ana
 My journey in Information Technology has led me to develop a passion for cybersecurity, demonstrating practical applications of cybersecurity principles and domains (including threat detection, incident response, and risk mitigation). Ultimately advancing my career trajectory towards fulfilling roles such as a Security Incident Responder, Malware analyst Incident Responder.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
+<!---  [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]] -->
+
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Splunk Implementation and Data Analysis          | <a href="https://github.com/omotara100/Splunk-lab">Splunk Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+<!--- | Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+-->
+
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+<!--- [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]] -->
 
 ### Network
 <div>
@@ -64,7 +67,8 @@ My journey in Information Technology has led me to develop a passion for cyberse
 </div>
 
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
+<!--- [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]  -->
+
 <div>
 <a href="https://www.credly.com/badges/94ae84a1-28c6-424b-a248-47244cc66ed2/linked_in_profile"><img src="https://img.shields.io/badge/-GCIH-000000?&style=for-the-badge&logo=GIAC&logoColor=white"/></a>
 <a href="https://www.credly.com/badges/f365deb8-e80e-4be2-a1d4-1e05454d4f7a/linked_in_profile"><img src="https://img.shields.io/badge/-GSEC-0078D4?&style=for-the-badge&logo=GIAC&logoColor=white" /></a>
