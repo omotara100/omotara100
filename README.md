@@ -13,12 +13,6 @@
 - [GIAC Foundational Cybersecurity Technologies (GFACT)](https://www.credly.com/badges/fa004c89-c870-4283-9b87-eed0d4fdfe3c/linked_in_profile)
 
 
-<h2> 🤳 Connect with me:</h2>
-
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-
-[linkedin]: https://linkedin.com/in/omotarakokori
 
 # Hello, I'm Omotara! Cybersecurity Professional
 <a href="https://www.linkedin.com/in/omotarakokori/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
