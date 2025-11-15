@@ -17,7 +17,7 @@
 your comment goes here
 and here
 -->
-
+<!---
 # Hello, I'm Omotara! Cybersecurity Professional
 <a href="https://www.linkedin.com/in/omotarakokori/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
@@ -84,3 +84,4 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## Projects
 - <a href="https://github.com/omotara100/Splunk-lab">Splunk Lab</a>
 - SOC Automation Project
+-->
