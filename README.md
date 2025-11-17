@@ -62,39 +62,58 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ## 🧰 Tools
 
-### Network
+### 🔹 Network Monitoring & Traffic Analysis
 <div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Security_Onion-556B2F?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Wazuh-4E91CE?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
-### Endpoint
+### 🔹 Endpoint Detection & Forensics
 <div>
-    <img src="https://img.shields.io/badge/-Sysmon-555555?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows_Event_Logs-0078D4?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Sysmon-555555?style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows_Event_Logs-0078D4?style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Volatility-000000?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Autopsy-3A6EA5?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Any.Run-FF6F00?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Hybrid_Analysis-000000?style=for-the-badge&logoColor=white" />
 </div>
 
-### SIEM
+### 🔹 SIEM Platforms
 <div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### SOAR / Automation
+### 🔹 SOAR / Automation
 <div>
-    <img src="https://img.shields.io/badge/-Shuffle_SOAR-2C3E50?&style=for-the-badge&logo=Shuffle&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Azure_Logic_Apps-0078D4?&style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shuffle_SOAR-2C3E50?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Azure_Logic_Apps-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
 </div>
 
-### Threat Intelligence & Case Management
+### 🔹 Threat Intelligence & OSINT
 <div>
-    <img src="https://img.shields.io/badge/-TheHive-FFCC00?&style=for-the-badge&logo=TheHive&logoColor=black" />
-    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-000000?&style=for-the-badge&logo=Mitre&logoColor=white" />
+    <img src="https://img.shields.io/badge/-MISP-FF8C00?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-4285F4?style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Shodan-FF0000?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Maltego-0A0A0A?style=for-the-badge&logo=Maltego&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Spiderfoot-228B22?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Cisco_Talos-1A5FB4?style=for-the-badge&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TheHive-FFCC00?style=for-the-badge&logo=TheHive&logoColor=black" />
+    <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-000000?style=for-the-badge&logo=Mitre&logoColor=white" />
 </div>
+
+### 🔹 Offensive Security & Recon
+<div>
+    <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+</div>
+
 
 ## 📜 Certifications
 <div>
