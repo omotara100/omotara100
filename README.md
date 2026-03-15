@@ -68,7 +68,6 @@ My journey in Information Technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white" />
     <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security_Onion-556B2F?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Wazuh-4E91CE?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### 🔹 Endpoint Detection & Forensics
@@ -88,13 +87,13 @@ My journey in Information Technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
     <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Wazuh-4E91CE?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### 🔹 SOAR / Automation
 <div>
     <img src="https://img.shields.io/badge/-Shuffle_SOAR-2C3E50?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure_Logic_Apps-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Wazuh-4E91CE?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### 🔹 Threat Intelligence & OSINT
