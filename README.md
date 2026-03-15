@@ -94,6 +94,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <div>
     <img src="https://img.shields.io/badge/-Shuffle_SOAR-2C3E50?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure_Logic_Apps-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
+   <img src="https://img.shields.io/badge/-Wazuh-4E91CE?style=for-the-badge&logo=Wazuh&logoColor=white" />
 </div>
 
 ### 🔹 Threat Intelligence & OSINT
