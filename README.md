@@ -9,6 +9,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ## 👨‍💻 Cybersecurity Projects:
  ## **📌 A Day in the Life of a Cybersecurity Generalist**
   - [Data Analysis Using Splunk](https://github.com/Omotara100/LABURL)
+  -  <a href="https://github.com/omotara100/Splunk-lab">Data Analysis Using Splunk</a> 
   ## **📌 Threat Analysis & MITRE ATT&CK Implementation**
 **Focus:** Foundational SOC analysis and adversary mapping  
 **Deliverables:**
