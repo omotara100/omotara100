@@ -131,6 +131,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - <a href="https://github.com/omotara100/threat-detection-engineering">Detection Engineering Starter Pack</a>
 - <a href="https://github.com/omotara100/sysmon-endpoint-detection-lab">Sysmon Endpoint Detection Lab</a>
 - <a href="https://github.com/omotara100/Endpoint-Forensics-Malware-Investigation">Endpoint Forensics Malware Investigation</a>
+- <a href="https://github.com/omotara100/soc-automation-blueprint">SIEM Log Analysis and Threat Detection Lab</a>
 - <a href="https://github.com/omotara100/soc-automation-blueprint">SOC Automation Blueprint</a>
 - <a href="https://github.com/omotara100/thehive-ir-simulation">TheHive IR Simulation Project</a>
 - <a href="https://github.com/omotara100/incident-response-pipeline">Incident Response Pipeline Project</a>
