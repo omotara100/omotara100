@@ -56,7 +56,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Threat Detection Engineering                  | <a href="https://github.com/omotara100/threat-detection-engineering">Detection Engineering Starter Pack</a> |
 | Sysmon Deployment & Windows Event Logging     | <a href="https://github.com/omotara100/sysmon-endpoint-detection-lab">Sysmon Endpoint Detection Lab</a> |
 | Endpoint Forensics & Malware Investigation    | <a href="https://github.com/omotara100/Endpoint-Forensics-Malware-Investigation">Endpoint Forensics Malware Investigation</a> |
-| SIEM Log Analysis and Threat Detection Lab    | <a href="https://github.com/omotara100/Endpoint-Forensics-Malware-Investigation">SIEM Log Analysis and Threat Detection Lab</a> |
+| SIEM Log Analysis and Threat Detection Lab    | <a href="https://github.com/omotara100/SIEM-Log-Analysis-and-Threat-Detection-Lab">SIEM Log Analysis and Threat Detection Lab</a> |
 | SOC Automation (SOAR Playbooks)               | <a href="https://github.com/omotara100/soc-automation-blueprint">SOC Automation Blueprint</a> |
 | Incident Response Case Management             | <a href="https://github.com/omotara100/thehive-ir-simulation-project">TheHive IR Simulation Project</a> |
 | Automated Threat Response (SOAR/Logic Apps)   | <a href="https://github.com/omotara100/incident-response-pipeline">Incident Response Pipeline Project</a> |
