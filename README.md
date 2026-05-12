@@ -63,7 +63,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Sysmon Deployment & Windows Event Logging     | <a href="https://github.com/omotara100/sysmon-endpoint-detection-lab">Sysmon Endpoint Detection Lab</a> |
 | Endpoint Forensics & Malware Investigation    | <a href="https://github.com/omotara100/Endpoint-Forensics-Malware-Investigation">Endpoint Forensics Malware Investigation</a> |
 | SIEM Log Analysis and Threat Detection Lab    | <a href="https://github.com/omotara100/SIEM-Log-Analysis-and-Threat-Detection-Lab">SIEM Log Analysis and Threat Detection Lab</a> |
-| ELK Stack Deployment & Administration |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
+ | ELK Stack Deployment & Administration | <a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/01-lab-setup">ELK Stack Deployment & Administration</a> 
 | Elasticsearch & Kibana SIEM Operations |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
 | Logstash Pipeline Configuration	 | <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
 | Winlogbeat Log Ingestion |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
