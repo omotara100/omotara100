@@ -33,19 +33,25 @@ My journey in Information Technology has led me to develop a passion for cyberse
 - Sysmon + Splunk/Sentinel Endpoint Detection Lab  
 - Windows Event Logging & Forensics Walkthrough
 
----
+ ---
 
-## **📌 SOC Automation & Incident Response Pipeline**
-**Focus:** Building automation workflows and full IR lifecycle simulation  
+## **📌 MyDFIR-SOC-Project**
+**Focus:** Full SOC Operations, DFIR, Threat Hunting & Incident Response Simulation  
+
 **Deliverables:**
-- SOAR playbook (Indicators → Enrichment → Ticketing → Response)  
-- Incident case management workflow using TheHive  
-- Automated threat response using Shuffle SOAR or Azure Logic Apps
+- Deploy and configure the ELK Stack (Elasticsearch, Logstash, Kibana) in a cloud environment  
+- Ingest endpoint telemetry using Winlogbeat and Sysmon  
+- Simulate brute-force and malware attacks against cloud infrastructure  
+- Create Kibana dashboards and custom detection rules  
+- Perform threat hunting and C2 investigation using Mythic C2  
+- Build incident workflows and ticketing procedures  
+- Practice end-to-end incident handling from detection to case management  
 
 **Projects:**
-- SOC Automation Blueprint  
-- Incident Response Simulation Lab  
-- TheHive Case Management Mini-Project
+- MyDFIR-SOC-Project  
+- ELK Stack Deployment Lab  
+- Threat Hunting & Detection Engineering Lab  
+- Incident Response & Case Management Workflow  
 
 
 ## Skills
@@ -57,9 +63,18 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Sysmon Deployment & Windows Event Logging     | <a href="https://github.com/omotara100/sysmon-endpoint-detection-lab">Sysmon Endpoint Detection Lab</a> |
 | Endpoint Forensics & Malware Investigation    | <a href="https://github.com/omotara100/Endpoint-Forensics-Malware-Investigation">Endpoint Forensics Malware Investigation</a> |
 | SIEM Log Analysis and Threat Detection Lab    | <a href="https://github.com/omotara100/SIEM-Log-Analysis-and-Threat-Detection-Lab">SIEM Log Analysis and Threat Detection Lab</a> |
-| SOC Automation (SOAR Playbooks)               | <a href="https://github.com/omotara100/soc-automation-blueprint">SOC Automation Blueprint</a> |
-| Incident Response Case Management             | <a href="https://github.com/omotara100/thehive-ir-simulation-project">TheHive IR Simulation Project</a> |
-| Automated Threat Response (SOAR/Logic Apps)   | <a href="https://github.com/omotara100/incident-response-pipeline">Incident Response Pipeline Project</a> |
+| ELK Stack Deployment & Administration |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
+| Elasticsearch & Kibana SIEM Operations |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
+| Logstash Pipeline Configuration	 | <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
+| Winlogbeat Log Ingestion |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
+| Sysmon Telemetry & Endpoint Monitoring |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> | 
+| Threat Hunting & IOC Analysis	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
+| Detection Engineering & Kibana Rules	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a>| 
+| Brute Force Attack Detection	 | <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
+| Malware Investigation & Analysis |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
+| C2 Investigation using Mythic	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
+| Incident Handling & Case Management |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
+Cloud Security Monitoring	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
 
 ## 🧰 Tools
 
