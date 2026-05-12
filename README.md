@@ -81,8 +81,6 @@ Cloud Security Monitoring	| <a href="https://github.com/omotara100/MyDFIR-SOC-Pr
 ### 🔹 Network Monitoring & Traffic Analysis
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?style=for-the-badge&logo=Zeek&logoColor=white" />
     <img src="https://img.shields.io/badge/-Security_Onion-556B2F?style=for-the-badge&logoColor=white" />
 </div>
 
@@ -99,16 +97,10 @@ Cloud Security Monitoring	| <a href="https://github.com/omotara100/MyDFIR-SOC-Pr
 </div>
 
 ### 🔹 SIEM Platforms
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?style=for-the-badge&logo=Elastic&logoColor=white" />
-   <img src="https://img.shields.io/badge/-Wazuh-4E91CE?style=for-the-badge&logo=Wazuh&logoColor=white" />
-</div>
+<div> <img src="https://img.shields.io/badge/-Splunk-000000?style=for-the-badge&logo=Splunk&logoColor=white" /> <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?style=for-the-badge&logo=Microsoft&logoColor=white" /> <img src="https://img.shields.io/badge/-Wazuh-005BAC?style=for-the-badge&logo=Wazuh&logoColor=white" /> <img src="https://img.shields.io/badge/-Elastic_SIEM-005571?style=for-the-badge&logo=Elastic&logoColor=white" /> <img src="https://img.shields.io/badge/-Elasticsearch-FEC514?style=for-the-badge&logo=Elasticsearch&logoColor=black" /> <img src="https://img.shields.io/badge/-Kibana-E8478B?style=for-the-badge&logo=Kibana&logoColor=white" /> <img src="https://img.shields.io/badge/-Logstash-005571?style=for-the-badge&logo=Elastic&logoColor=white" /> </div>
 
 ### 🔹 SOAR / Automation
 <div>
-    <img src="https://img.shields.io/badge/-Shuffle_SOAR-2C3E50?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-Azure_Logic_Apps-0078D4?style=for-the-badge&logo=MicrosoftAzure&logoColor=white" />
 </div>
 
@@ -124,12 +116,17 @@ Cloud Security Monitoring	| <a href="https://github.com/omotara100/MyDFIR-SOC-Pr
     <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-000000?style=for-the-badge&logo=Mitre&logoColor=white" />
 </div>
 
+### 🔹 Threat Hunting & Adversary Simulation
+<div> <img src="https://img.shields.io/badge/-Mythic_C2-8B0000?style=for-the-badge&logoColor=white" /> <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-000000?style=for-the-badge&logo=Mitre&logoColor=white" /> </div>
+
 ### 🔹 Offensive Security & Recon
 <div>
     <img src="https://img.shields.io/badge/-Nmap-4682B4?style=for-the-badge&logo=Nmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-Kali_Linux-557C94?style=for-the-badge&logo=Kali-Linux&logoColor=white" />
 </div>
 
+### 🔹 Cloud Infrastructure & Virtualization
+<div> <img src="https://img.shields.io/badge/-Ubuntu-E95420?style=for-the-badge&logo=Ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/-Vultr-007BFC?style=for-the-badge&logo=Vultr&logoColor=white" /> <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=Linux&logoColor=white" /> </div>
 
 ## 📜 Certifications
 <div>
