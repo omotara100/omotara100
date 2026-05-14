@@ -63,17 +63,12 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Sysmon Deployment & Windows Event Logging     | <a href="https://github.com/omotara100/sysmon-endpoint-detection-lab">Sysmon Endpoint Detection Lab</a> |
 | Endpoint Forensics & Malware Investigation    | <a href="https://github.com/omotara100/Endpoint-Forensics-Malware-Investigation">Endpoint Forensics Malware Investigation</a> |
 | SIEM Log Analysis and Threat Detection Lab    | <a href="https://github.com/omotara100/SIEM-Log-Analysis-and-Threat-Detection-Lab">SIEM Log Analysis and Threat Detection Lab</a> |
- | ELK Stack Deployment & Administration | <a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/01-lab-setup">ELK Stack Deployment & Administration</a> 
-| Elasticsearch & Kibana SIEM Operations |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
-| Logstash Pipeline Configuration	 | <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
-| Winlogbeat Log Ingestion |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
-| Sysmon Telemetry & Endpoint Monitoring |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> | 
-| Threat Hunting & IOC Analysis	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
-| Detection Engineering & Kibana Rules	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a>| 
-| Brute Force Attack Detection	 | <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
-| Malware Investigation & Analysis |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
-| C2 Investigation using Mythic	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
-| Incident Handling & Case Management |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
+ | ELK Stack Deployment & Administration | <a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/01-lab-setup"> ELK deployment and infrastructure setup</a> 
+| Elasticsearch & Kibana SIEM Operations |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">Winlogbeat & Sysmon configuration</a> |
+| Brute Force Attack Detection, Malware Investigation & Analysis  | <a href="https://github.com/omotara100/MyDFIR-SOC-Project">Brute force and malware testing</a> |
+| Threat Hunting & IOC Analysis	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project">C2 Investigation using Mythic</a> |
+| Detection Engineering & Kibana Rules	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project"> Detection rules & dashboards</a>| 
+| Incident Handling & Case Management |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project"> Incident reports and case handling</a> |
 Cloud Security Monitoring	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
 
 ## 🧰 Tools
@@ -109,10 +104,7 @@ Cloud Security Monitoring	| <a href="https://github.com/omotara100/MyDFIR-SOC-Pr
     <img src="https://img.shields.io/badge/-MISP-FF8C00?style=for-the-badge&logoColor=white" />
     <img src="https://img.shields.io/badge/-VirusTotal-4285F4?style=for-the-badge&logo=VirusTotal&logoColor=white" />
     <img src="https://img.shields.io/badge/-Shodan-FF0000?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Maltego-0A0A0A?style=for-the-badge&logo=Maltego&logoColor=white" />
     <img src="https://img.shields.io/badge/-Spiderfoot-228B22?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Cisco_Talos-1A5FB4?style=for-the-badge&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TheHive-FFCC00?style=for-the-badge&logo=TheHive&logoColor=black" />
     <img src="https://img.shields.io/badge/-MITRE_ATT%26CK-000000?style=for-the-badge&logo=Mitre&logoColor=white" />
 </div>
 
