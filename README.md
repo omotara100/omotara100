@@ -136,7 +136,7 @@ Cloud Security Monitoring	| <a href="https://github.com/omotara100/MyDFIR-SOC-Pr
 - <a href="https://github.com/omotara100/threat-detection-engineering">Detection Engineering Starter Pack</a>
 - <a href="https://github.com/omotara100/sysmon-endpoint-detection-lab">Sysmon Endpoint Detection Lab</a>
 - <a href="https://github.com/omotara100/Endpoint-Forensics-Malware-Investigation">Endpoint Forensics Malware Investigation</a>
-- <a href="https://github.com/omotara100/soc-automation-blueprint">SIEM Log Analysis and Threat Detection Lab</a>
+- <a href="https://github.com/omotara100/SIEM-Log-Analysis-and-Threat-Detection-Lab">SIEM Log Analysis and Threat Detection Lab</a>
 - <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a>
 
 ---
