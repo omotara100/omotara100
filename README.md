@@ -64,7 +64,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Endpoint Forensics & Malware Investigation    | <a href="https://github.com/omotara100/Endpoint-Forensics-Malware-Investigation">Endpoint Forensics Malware Investigation</a> |
 | SIEM Log Analysis and Threat Detection Lab    | <a href="https://github.com/omotara100/SIEM-Log-Analysis-and-Threat-Detection-Lab">SIEM Log Analysis and Threat Detection Lab</a> |
  | ELK Stack Deployment & Administration | <a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/01-lab-setup"> ELK deployment and infrastructure setup</a> 
-| Elasticsearch & Kibana SIEM Operations |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project">Winlogbeat & Sysmon configuration</a> |
+| Elasticsearch & Kibana SIEM Operations |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/02-log-ingestion">Winlogbeat & Sysmon configuration</a> |
 | Brute Force Attack Detection, Malware Investigation & Analysis  | <a href="https://github.com/omotara100/MyDFIR-SOC-Project">Brute force and malware testing</a> |
 | Threat Hunting & IOC Analysis	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project">C2 Investigation using Mythic</a> |
 | Detection Engineering & Kibana Rules	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project"> Detection rules & dashboards</a>| 
