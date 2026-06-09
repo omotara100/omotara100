@@ -1,7 +1,7 @@
-# Hello, I'm Omotara! Cybersecurity Professional
+# Hello, I'm Omotara! Security Operations professional — SOC, detection engineering, SIEM deployment, incident response.
 <a href="https://www.linkedin.com/in/omotarakokori/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-Passionate cybersecurity enthusiast showcasing hands-on experience in threat analysis, vulnerability assessment, and incident response. Proficient in utilizing industry-standard tools and techniques to safeguard digital assets and mitigate security risks.
+Passionate Security Operations professional showcasing hands-on experience in threat analysis, vulnerability assessment, and incident response. Proficient in utilizing industry-standard tools and techniques to safeguard digital assets and mitigate security risks.
 
 ## Objective
 My journey in Information Technology has led me to develop a passion for cybersecurity, demonstrating practical applications of cybersecurity principles and domains (including threat detection, incident response, and risk mitigation). This roadmap outlines my hands-on projects focused on threat detection, incident response, SOC tooling, and adversary emulation.Ultimately advancing my career trajectory towards fulfilling roles such as a Security Incident Responder, Threat Intelligence Analyst, Threat Security Analyst or Incident Responder.
