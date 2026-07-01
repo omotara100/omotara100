@@ -65,7 +65,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | SIEM Log Analysis and Threat Detection Lab    | <a href="https://github.com/omotara100/SIEM-Log-Analysis-and-Threat-Detection-Lab">SIEM Log Analysis and Threat Detection Lab</a> |
  | ELK Stack Deployment & Administration | <a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/01-lab-setup"> ELK deployment and infrastructure setup</a> 
 | Elasticsearch & Kibana SIEM Operations |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/02-log-ingestion">Winlogbeat & Sysmon configuration</a> |
-| Brute Force Attack Detection, Malware Investigation & Analysis  | <a href="https://github.com/omotara100/MyDFIR-SOC-Project">Brute force and malware testing</a> |
+| Brute Force Attack Detection, Malware Investigation & Analysis  | <a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/03-attack-simulation">Brute force and malware testing</a> |
 | Threat Hunting & IOC Analysis	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project/blob/main/04-detection-engineering/mythic-c2-detection-engineering.md">C2 Investigation using Mythic</a> |
 | Detection Engineering & Kibana Rules	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/04-detection-engineering"> Detection rules & dashboards</a>| 
 | Incident Response |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/06-incident-response"> Incident Response</a> |
