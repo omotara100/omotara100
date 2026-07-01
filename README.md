@@ -68,8 +68,9 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Brute Force Attack Detection, Malware Investigation & Analysis  | <a href="https://github.com/omotara100/MyDFIR-SOC-Project">Brute force and malware testing</a> |
 | Threat Hunting & IOC Analysis	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project/blob/main/04-detection-engineering/mythic-c2-detection-engineering.md">C2 Investigation using Mythic</a> |
 | Detection Engineering & Kibana Rules	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/04-detection-engineering"> Detection rules & dashboards</a>| 
-| Incident Handling & Case Management |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project"> Incident reports and case handling</a> |
-Cloud Security Monitoring	| <a href="https://github.com/omotara100/MyDFIR-SOC-Project">MyDFIR-SOC-Project</a> |
+| Incident Response |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/06-incident-response"> Incident Response</a> |
+| Incident Handling & Case Management |	<a href="https://github.com/omotara100/MyDFIR-SOC-Project/tree/main/05-case-management"> Incident reports and case handling</a> |
+
 
 ## 🧰 Tools
 
